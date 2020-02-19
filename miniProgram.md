@@ -1,17 +1,17 @@
 # web前端工程师 - 多端适配方向 T5
 文档最后更新于： {docsify-updated}
 
-ToC-移动端方向，主要负责M站/小程序/Hybird H5等相关需求；
+?> ToC-移动端方向，主要负责M站/小程序/Hybird H5等相关需求；
 你需要注重于UI的px级还原度和用户体验；有一定移动端开发经验，不限于各端小程序、App，有基于用户体验的性能优化经验，那么欢迎你投递简历。如果你还有 React Native、React Hooks、Flutter等经验，将优先考虑哦～
 
->1. [Css]px、em、rem、%、vw、vh、vm这些单位的区别？
+>1. [Css]px、em、rem、%、vw、vh、vm这些单位的区别？
 
->2. [数据类型]在不知道浮点数位数时应该怎样判断两个浮点数之和与第三数是否相等？
+>2. [数据类型]在不知道浮点数位数时应该怎样判断两个浮点数之和与第三数是否相等？
 
 >3. [ES6]数组去重的方式?
 let arr = ['1', '2', '3', '1', 'a', 'b', 'b'];
 
->4. [JS]说下Event Loop?
+>4. [JS]说下Event Loop?
 
 >5. [React/Vue]请简单实现双向数据绑定mvvm。
 >6. [React/Vue]React/Vue不同组件之间是怎么通信的?Event Bus实现下组件通讯？
