@@ -18,21 +18,18 @@ let arr = ['1', '2', '3', '1', 'a', 'b', 'b'];
 >7. [React/Vue]React/Vue diff 算法原理？
 >8. [React/Vue]现在要你完成一个Dialog组件，说说你设计的思路？它应该有什么功能？
 
->9. [React]类组件(Class component)和函数式组件(Functional component)之间有何不同？
->10. [React]为什么我们需要使用 React 提供的 Children API 而不是 JavaScript 的 map？
->11. [React]为什么建议传递给 setState 的参数是一个 callback 而不是一个对象?
+## 二选一
+>9. [React]类组件(Class component)和函数式组件(Functional component)之间有何不同？React还有哪些组件类型?
 
->9. [vue]vue 各种组件通信方法（父子 子父 兄弟 爷孙 毫无关系的组件）
->10. [vue]vue常用的修饰符？vue slot？
->11. [vue]跨组件双向数据绑定？
+>9. [vue]vue常用的修饰符有哪些？vue slot 实现的机制是，结合vue3.0说下？
 
->12. [数据存储]HTML5的离线储存怎么使用，工作原理能不能解释一下？浏览器是怎么对HTML5的离线储存资源进行管理和加载的呢?刷新页面，js请求一般会有哪些地方有缓存处理？
+>10. [数据存储]HTML5的离线储存怎么使用，工作原理能不能解释一下？浏览器是怎么对HTML5的离线储存资源进行管理和加载的呢?刷新页面，js请求一般会有哪些地方有缓存处理？
 
->13. [Http]一次完整的HTTP事务是怎么一个过程?Http的状态码有哪些?HTTPS是如何实现加密?
+>11. [Http]一次完整的HTTP事务是怎么一个过程?Http的状态码有哪些?HTTPS是如何实现加密?
 
->14. [Net]TCP/UDP 的区别?
+>12. [Net]TCP/UDP 的区别?
 
->15. [Performance]从输入URL到看到页面发生的全过程，说下性能调优？
+>13. [Performance]从输入URL到看到页面发生的全过程，说下性能调优？
 
 
 
