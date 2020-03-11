@@ -18,7 +18,7 @@ let arr = ['1', '2', '3', '1', 'a', 'b', 'b'];
 >7. [React/Vue]React/Vue diff 算法原理？
 >8. [React/Vue]现在要你完成一个Dialog组件，说说你设计的思路？它应该有什么功能？
 
-## 二选一
+?> 二选一
 >9. [React]类组件(Class component)和函数式组件(Functional component)之间有何不同？React还有哪些组件类型?
 
 >9. [vue]vue常用的修饰符有哪些？vue slot 实现的机制是，结合vue3.0说下？
