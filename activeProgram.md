@@ -1,4 +1,4 @@
-# web前端工程师 - 营销活动方向 T4/T5
+# web前端工程师 - 营销活动方向 T4
 文档最后更新于： 2020-02-29
 
 ToC-活动交互方向，主要负责所属业务线营销活动相关的需求。
@@ -18,11 +18,7 @@ let arr = ['1', '2', '3', '1', 'a', 'b', 'b'];
 >7. [React/Vue]React/Vue diff 算法原理？
 >8. [React/Vue]现在要你完成一个Dialog组件，说说你设计的思路？它应该有什么功能？
 
->9. 二选一
-
- [React]类组件(Class component)和函数式组件(Functional component)之间有何不同？React还有哪些组件类型?
-
- [vue]vue常用的修饰符有哪些？vue slot 实现的机制是，结合vue3.0说下？
+>9. 二选一[React]类组件(Class component)和函数式组件(Functional component)之间有何不同？React还有哪些组件类型?[vue]vue常用的修饰符有哪些？vue slot 实现的机制是，结合vue3.0说下？
 
 >10. [数据存储]HTML5的离线储存怎么使用，工作原理能不能解释一下？浏览器是怎么对HTML5的离线储存资源进行管理和加载的呢?刷新页面，js请求一般会有哪些地方有缓存处理？
 
