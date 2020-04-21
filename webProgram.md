@@ -25,7 +25,7 @@
 
 >11. [Node.js]process.env.NODE_ENV是什么?说一下 Process，以及 Require 原理？
 
->12. [Webpack]npm 与 yarn 对比?关于 package-lock.json 和 yarn.lock?
+>12. [Webpack]Es6如何转Es5?
 
 >13. [架构设计]说下渐进式框架的理解？以及曾开发过的组件库/工具库/脚手架的架构设计方案？
 
