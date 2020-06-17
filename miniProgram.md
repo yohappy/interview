@@ -2,7 +2,7 @@
 文档最后更新于： 2020-02-29
 
 ?> ToC-移动端方向，主要负责M站/小程序/Hybird H5等相关需求；
-你需要注重于UI的px级还原度和用户体验；有一定移动端开发经验，不限于各端小程序、App，有基于用户体验的性能优化经验，那么欢迎你投递简历。如果你还有 React Native、React Hooks、Flutter等经验，将优先考虑哦～
+你需要注重于UI的px级还原度和用户体验；有一定移动端开发经验，多端小程序(微信、百度、支付宝...)、小程序多端框架（uniapp\taro\wepy\mpvue）、App，有基于用户体验的性能优化经验，那么欢迎你投递简历。如果你还有 React Native、React Hooks、Flutter等经验，将优先考虑哦～
 
 >1. [Css]px、em、rem、%、vw、vh、vm这些单位的区别？
 
@@ -16,7 +16,7 @@ let arr = ['1', '2', '3', '1', 'a', 'b', 'b'];
 >5. [React/Vue]请简单实现双向数据绑定mvvm。
 >6. [React/Vue]React/Vue不同组件之间是怎么通信的?Event Bus实现下组件通讯？
 >7. [React/Vue]React/Vue diff 算法原理？
->8. [React/Vue]现在要你完成一个Dialog组件，说说你设计的思路？它应该有什么功能？
+>8. [React/Vue]现在要你完成一个Dialog组件，说说你设计的思路？
 
 >9. 二选一
 * [React]类组件(Class component)和函数式组件(Functional component)之间有何不同？React还有哪些组件类型?
