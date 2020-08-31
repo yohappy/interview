@@ -11,7 +11,7 @@
 
 >4. [Error]标准的 JavaScript 错误常见有哪些？Node.js 中错误处理几种方法？怎么处理未预料的出错? 用 try/catch , 还是其它什么?
 
->5. [React/Vue]现在要你完成一个公用的Dialog组件，说说你封装的思路？
+>5. [React/Vue]现在要你完成一个公用的Dialog组件，说说你封装的思路？[vue]实现一个EventEmitter(发布订阅模式)？
 
 >6. [React/Vue]Vue3.0/React Hooks 了解么简单说下？
 
